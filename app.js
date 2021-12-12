@@ -14,7 +14,6 @@ function deepComparison(obj1, obj2) {
         biggestKey = keys1.length;
     }
 
-    console.log(biggestKey);
     //Create the arrays of values for each parameter
     const value1 = Object.values(obj1); 
     const value2 = Object.values(obj2);
