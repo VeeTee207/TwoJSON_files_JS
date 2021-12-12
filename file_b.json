@@ -1,0 +1,13 @@
+{
+    "first_name": "Alex",
+    "lastName": "Smith",
+    "isAlive": false,
+    "Age": 27,
+    "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "Chicago",
+        "state": "IL",
+        "postal_Code": "10021-3100",
+        "building": true
+    }
+}
